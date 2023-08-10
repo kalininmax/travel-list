@@ -1,3 +1,3 @@
 # The "Far Away" Travel List
 
-Project from [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
+Project from online-course [The Ultimate React Course 2023: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course/)
